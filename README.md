@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sno0wFl4ke
 - 👀 I’m interested in Illustration, Development.
-- 🌱 I’m currently learning Java, JS, Kotlin, C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java, TypeScript, Python & Swift
 - 📫 How to reach me twitter.com/meSno0wFl4ke
 
 <!---
