@@ -1,4 +1,6 @@
 # Sno0wFl4ke
+![alt text](https://github.com/Sno0wFl4ke/Sno0wFl4ke/blob/main/innovation%20Festival.png?raw=true)
+
 ## 🌵 About me
 - 🏷️ Name: Philip
 - 🌿 Age: 17
