@@ -18,11 +18,52 @@
   - Kotlin 🌌
   - Python 🐍
   - SwiftUI 🍎
-- 📦 Software I use:
-  - Intellij IDE Community Edition
-  - PyCharm Community Edition
-  - Visual Studio Code 
-  - Sublime Text 3
+- 📦 Tools I use:
+  - 📝IDEs / Text editors / File managers:
+    <p alignment = "center">
+      <img src="/assets/IntelliJ_IDEA_Icon.svg.png" alt="drawing" width="50"/>  
+      <img src="/assets/PyCharm_Icon.svg.png" alt="drawing" width="50"/>
+      <img src="/assets/xcode-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/vscode-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/sublime-text.svg" alt="drawing" width="50"/>
+      <img src="/assets/filezilla-plain.svg" alt="drawing" width="50"/>
+      
+    </p>
+  - 💬Programming languages / Text formatting tools
+     <p alignment = "center">
+      <img src="/assets/kotlin-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/java-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/swift-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/swiftui (1).png" alt="drawing" width="50"/>
+      <img src="/assets/python-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/markdown-original.svg" alt="drawing" width="50"/>
+    </p>
+  - 🎨Design tools
+     <p alignment = "center">
+      <img src="/assets/Logo_AffinityDesigner.svg.png" alt="drawing" width="50"/>
+      <img src="/assets/Logo_AffinityPhoto.svg.png" alt="drawing" width="50"/>
+      <img src="/assets/Logo_AffinityPublisher.svg.png" alt="drawing" width="50"/>
+      <img src="/assets/figma-original.svg" alt="drawing" width="50"/>
+    </p>
+  - 💻Operating systems
+     <p alignment = "center">
+       <img src="/assets/apple-original.svg" alt="drawing" width="50"/>
+       <img src="/assets/microsoft-windows-11.svg" alt="drawing" width="50"/>
+       <img src="/assets/linux-original.svg" alt="drawing" width="50"/>
+       <img src="/assets/ubuntu-plain.svg" alt="drawing" width="50"/>
+       <img src="/assets/Manjaro-logo.svg.png" alt="drawing" width="50"/>
+    </p> 
+  - 🔧Tools / Frameworks / Database
+    <p>
+      <img src="/assets/docker-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/git-original-wordmark.svg" alt="drawing" width="50"/>
+      <img src="/assets/gradle-plain.svg" alt="drawing" width="50"/>
+      <img src="/assets/mongodb-original.svg" alt="drawing" width="50"/>
+      <img src="/assets/wordpress-plain.svg" alt="drawing" width="50"/>
+      <img src="/assets/Apache_Maven_logo.svg.png" alt="drawing" width="50"/>   
+    </p>
+
+</p>
 
 ### 🐙 GitHub Stats
 [![Sno0wFl4ke's github stats](https://github-readme-stats.vercel.app/api?username=Sno0wFl4ke)](https://github.com/Sno0wFl4ke)
