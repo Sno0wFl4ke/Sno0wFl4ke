@@ -13,11 +13,7 @@
   - Biology 🧪
   
 ## 👨‍💻 About programming
-- 💡 I'm learning: 
-  - Java ☕
-  - Kotlin 🌌
-  - Python 🐍
-  - SwiftUI 🍎
+- 💡 I'm learning: Kotlin, Java, SwiftUI, Python
 - 📦 Tools I use:
   - 📝IDEs / Text editors / File managers:
     <p alignment = "center">
