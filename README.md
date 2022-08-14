@@ -1,4 +1,3 @@
-# Sno0wFl4ke
 ![Banner](https://github.com/Sno0wFl4ke/Sno0wFl4ke/blob/main/assets/banner.png?raw=true)
 
 ## 🌵 About me
