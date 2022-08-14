@@ -25,6 +25,7 @@
 ## 📫 How to reach me
 - Discord: Sno0wFl4ke#5263
 - Twitter: twitter.com/meSno0wFl4ke
+- Email: beeadev@outlook.com
 
 <!---
 Sno0wFl4ke/Sno0wFl4ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
