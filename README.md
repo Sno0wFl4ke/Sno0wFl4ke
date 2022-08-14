@@ -1,5 +1,5 @@
 # Sno0wFl4ke
-![alt text](https://github.com/Sno0wFl4ke/Sno0wFl4ke/blob/main/innovation%20Festival.png?raw=true)
+![Banner](https://github.com/Sno0wFl4ke/Sno0wFl4ke/blob/main/assets/banner.png?raw=true)
 
 ## 🌵 About me
 - 🏷️ Name: Philip
