@@ -18,6 +18,7 @@
   - SwiftUI 🍎
 - 📦 Software I use:
   - Intellij IDE Community Edition
+  - PyCharm Community Edition
   - Visual Studio Code 
   - Sublime Text 3
 
