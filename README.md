@@ -59,10 +59,9 @@
     </p>
 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sno0wFl4ke&layout=compact)](https://github.com/Sno0wFl4ke)
 
 ## 📫 How to reach me
-- Discord: Sno0wFl4ke#5263
+- Discord: Sno0wFl4ke
 - Twitter: twitter.com/meSno0wFl4ke
 - Email: beeadev@outlook.com
 
