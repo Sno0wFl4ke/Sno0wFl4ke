@@ -59,10 +59,6 @@
     </p>
 
 </p>
-
-### 🐙 GitHub Stats
-[![Sno0wFl4ke's github stats](https://github-readme-stats.vercel.app/api?username=Sno0wFl4ke)](https://github.com/Sno0wFl4ke)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sno0wFl4ke&layout=compact)](https://github.com/Sno0wFl4ke)
 
 ## 📫 How to reach me
