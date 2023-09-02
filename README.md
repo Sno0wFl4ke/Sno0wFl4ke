@@ -2,7 +2,7 @@
 
 ## 🌵 About me
 - 🏷️ Name: Philip
-- 🌿 Age: 17
+- 🌿 Age: 18
 - 📍  From: Germany
 - 🗨  Languages: German, English, French, Norwegian
 - 💙 Hobbies: Coding 👨‍💻, Illustration 🎨, Making music 🎶, Biology 🧪
