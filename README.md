@@ -5,11 +5,7 @@
 - 🌿 Age: 17
 - 📍  From: Germany
 - 🗨  Languages: German, English, French, Norwegian
-- 💙 Hobbies: 
-  - Coding 👨‍💻
-  - Illustration 🎨
-  - Making music 🎶
-  - Biology 🧪
+- 💙 Hobbies: Coding 👨‍💻, Illustration 🎨, Making music 🎶, Biology 🧪
   
 ## 👨‍💻 About programming
 - 💡 I'm learning: Kotlin, Java, SwiftUI, Python
