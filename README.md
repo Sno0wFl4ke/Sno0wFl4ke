@@ -8,7 +8,7 @@
 - 💙 Hobbies: Coding 👨‍💻, Illustration 🎨, Making music 🎶, Biology 🧪
   
 ## 👨‍💻 About programming
-- 💡 I'm learning: Kotlin, Java, SwiftUI, Python
+- 💡 I'm learning: Kotlin, Java, SwiftUI, Ruby, Python
 - 📦 Tools I use:
   - 📝IDEs / Text editors / File managers:
     <p alignment = "center">
