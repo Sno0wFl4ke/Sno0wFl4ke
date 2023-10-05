@@ -17,7 +17,7 @@
       <img src="/assets/swift-original.svg" alt="drawing" width="50"/>
       <img src="/assets/swiftui (1).png" alt="drawing" width="50"/>
       <img src="/assets/python-original.svg" alt="drawing" width="50"/>
-      <img src="/assets/ruby.svg" alt="drawing" width="50"/>
+      <img src="assets/Ruby_logo.svg.png" alt="drawing" width="50"/>
    </p>
 
 ## 📫 How to reach me
