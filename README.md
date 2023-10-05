@@ -10,7 +10,7 @@
   
 ## 👨‍💻 About programming
 - 💡 I'm learning: Kotlin, Java, SwiftUI, Ruby, Python
-- 💬Programming languages / Text formatting tools
+- 💬Programming languages
   <p alignment = "center">
       <img src="/assets/kotlin-original.svg" alt="drawing" width="50"/>
       <img src="/assets/java-original.svg" alt="drawing" width="50"/>
