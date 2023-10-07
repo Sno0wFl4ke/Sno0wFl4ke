@@ -1,32 +1,42 @@
 ![Banner](https://github.com/Sno0wFl4ke/Sno0wFl4ke/blob/main/assets/banner.png?raw=true)
 
 ## 🌵 About me
-- 🏷️ Name: Philip
-- 🌿 Age: 18
-- 👨🏼‍🎓 Occupation: Student @ RUB
-- 📍 From: Germany
-- 🗨 Languages: German, English, French, Norwegian
-- 💙 Hobbies: Coding 👨‍💻, Illustration 🎨, Making music 🎶, Biology 🧪
-  
-## 👨‍💻 About programming
-- 💡 I'm learning: Kotlin, Java, SwiftUI, Ruby, Python
-- 💬Programming languages
-  <p alignment = "center">
-      <img src="/assets/kotlin-original.svg" alt="drawing" width="50"/>
-      <img src="/assets/java-original.svg" alt="drawing" width="50"/>
-      <img src="/assets/swift-original.svg" alt="drawing" width="50"/>
-      <img src="/assets/swiftui (1).png" alt="drawing" width="50"/>
-      <img src="/assets/python-original.svg" alt="drawing" width="50"/>
-      <img src="assets/Ruby_logo.svg.png" alt="drawing" width="50"/>
-   </p>
-
-## 📫 How to reach me
-- Discord: Sno0wFl4ke
-- Twitter: x.com/meSno0wFl4ke
-- Email: beeadev@outlook.com
-
 ```json
-"test": "test"
+{
+    "sno0wfl4ke": [
+        {
+            "name": "Philip",
+            "age": 18,
+            "occupation": "Student @ RUB",
+            "orign": "Germany",
+            "languages": [
+                "German (Native)",
+                "English",
+                "French (A2)",
+                "Norwegian"
+            ],
+            "hobbies": [
+                "Coding",
+                "Illustration",
+                "Biology",
+                "Music"
+            ],
+            "coding": [
+                "Kotlin",
+                "Java",
+                "SwiftUI",
+                "Ruby"
+            ]
+        }
+    ],
+    "contact": [
+        {
+            "discord": "Sno0wFl4ke",
+            "twitter": "meSno0wFl4ke",
+            "mail": "beeadev@outlook.com"
+        }
+    ]
+}
 ```
 
 <!---
