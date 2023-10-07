@@ -1,41 +1,25 @@
-![Banner](https://github.com/Sno0wFl4ke/Sno0wFl4ke/blob/main/assets/banner.png?raw=true)
+```kotlin
+package de.sno0wfl4ke.aboutme
 
-## 🌵 About me
-```json
-{
-    "sno0wfl4ke": [
-        {
-            "name": "Philip",
-            "age": 18,
-            "occupation": "Student @ RUB",
-            "orign": "Germany",
-            "languages": [
-                "German (Native)",
-                "English",
-                "French (A2)",
-                "Norwegian"
-            ],
-            "hobbies": [
-                "Coding",
-                "Illustration",
-                "Biology",
-                "Music"
-            ],
-            "coding": [
-                "Kotlin",
-                "Java",
-                "SwiftUI",
-                "Ruby"
-            ]
-        }
-    ],
-    "contact": [
-        {
-            "discord": "Sno0wFl4ke",
-            "twitter": "meSno0wFl4ke",
-            "mail": "beeadev@outlook.com"
-        }
-    ]
+class Sno0wFl4ke {
+    val name = "Philip"
+    val age = 18
+    val occupation = Occupation("Student", "RUB")
+    val origin = Countries.GERMANY
+    val languages = listOf(Languages.GERMAN, Languages.ENGLISH, Languages.FRENCH, Languages.NORWEGIAN)
+    val interests = listOf("Programming", "Illustration", "Biology", "Music", "Cooking")
+
+    fun getCodingLanguages() : List<String> {
+        return listOf("Kotlin", "Java", "SwiftUI")
+    }
+
+    fun getInTouch() : Contact {
+        return Contact(
+            Discord("sno0wfl4ke"),
+            Mail("beeadev@outlook.com"),
+            Twitter("@meSno0wFl4ke")
+        )
+    }
 }
 ```
 
