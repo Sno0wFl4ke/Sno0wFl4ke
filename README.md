@@ -25,6 +25,10 @@
 - Twitter: x.com/meSno0wFl4ke
 - Email: beeadev@outlook.com
 
+```json
+"test": "test"
+```
+
 <!---
 Sno0wFl4ke/Sno0wFl4ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
