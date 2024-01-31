@@ -16,7 +16,7 @@ class Sno0wFl4ke {
     fun getInTouch() : Contact {
         return Contact(
             Discord("sno0wfl4ke"),
-            Mail("beeadev@outlook.com"),
+            Mail("langenbrink@outlook.com"),
             Twitter("@meSno0wFl4ke")
         )
     }
