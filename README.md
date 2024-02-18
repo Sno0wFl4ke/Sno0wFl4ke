@@ -3,7 +3,7 @@ package de.sno0wfl4ke.aboutme
 
 class Sno0wFl4ke {
     val name = "Philip"
-    val age = 18
+    val age = 19
     val occupation = Occupation("Student", "RUB")
     val origin = Countries.GERMANY
     val languages = listOf(Languages.GERMAN, Languages.ENGLISH, Languages.FRENCH, Languages.NORWEGIAN)
