@@ -7,10 +7,10 @@ class Sno0wFl4ke {
     val occupation = Occupation("Student", "RUB")
     val origin = Countries.GERMANY
     val languages = listOf(Languages.GERMAN, Languages.ENGLISH, Languages.FRENCH, Languages.NORWEGIAN)
-    val interests = listOf("Programming", "Illustration", "Biology", "Music", "Cooking")
+    val interests = listOf("Coding", "Illustration", "Biology", "Music", "Cooking")
 
-    fun getCodingLanguages() : List<String> {
-        return listOf("Kotlin", "Java", "SwiftUI")
+    fun getProgrammingLanguages() : List<String> {
+        return listOf("Kotlin", "Java", "Python", "SwiftUI")
     }
 
     fun getInTouch() : Contact {
