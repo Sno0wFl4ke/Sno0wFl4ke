@@ -10,7 +10,7 @@ class Sno0wFl4ke {
     val interests = listOf("Coding", "Illustration", "Biology", "Music", "Cooking")
 
     fun getProgrammingLanguages() : List<String> {
-        return listOf("Kotlin", "Java", "Python", "SwiftUI", "GoLang")
+        return listOf("Kotlin", "Java", "TypeScript", "Python", "GoLang")
     }
 
     fun getInTouch() : Contact {
