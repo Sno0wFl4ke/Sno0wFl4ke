@@ -1,26 +1,23 @@
-```kotlin
-package de.sno0wfl4ke.aboutme
+```python
+class Sno0wFl4ke:
+    name = "Philip"
+    age = 20
+    occupation = ("[AI] Student", "RUB")
+    origin = "Germany"
+    languages = ["German", "English", "French", "Norwegian"]
+    interests = ["Coding", "Illustration", "Biology", "Music", "Cooking"]
 
-class Sno0wFl4ke {
-    val name = "Philip"
-    val age = 20
-    val occupation = Occupation("[AI] Student", "RUB")
-    val origin = Countries.GERMANY
-    val languages = listOf(Languages.GERMAN, Languages.ENGLISH, Languages.FRENCH, Languages.NORWEGIAN)
-    val interests = listOf("Coding", "Illustration", "Biology", "Music", "Cooking")
+    @staticmethod
+    def get_programming_languages():
+        return ["Kotlin", "Java", "TypeScript", "Python", "GoLang"]
 
-    fun getProgrammingLanguages() : List<String> {
-        return listOf("Kotlin", "Java", "TypeScript", "Python", "GoLang")
-    }
-
-    fun getInTouch() : Contact {
-        return Contact(
-            Discord("sno0wfl4ke"),
-            Mail("langenbrink@outlook.com"),
-            Twitter("@meSno0wFl4ke")
-        )
-    }
-}
+    @staticmethod
+    def get_in_touch():
+        return {
+            "Discord": "sno0wfl4ke",
+            "Mail": "langenbrink@outlook.com",
+            "Twitter": "@meSno0wFl4ke"
+        }
 ```
 
 <!---
