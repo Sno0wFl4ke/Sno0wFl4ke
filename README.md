@@ -1,23 +1,31 @@
-```python
-class Sno0wFl4ke:
-    name = "Philip"
-    age = 20
-    occupation = ("[AI] Student", "RUB")
-    origin = "Germany"
-    languages = ["German", "English", "French", "Norwegian"]
-    interests = ["Coding", "Illustration", "Biology", "Music", "Cooking"]
+```go
+package main
 
-    @staticmethod
-    def get_programming_languages():
-        return ["Kotlin", "Java", "TypeScript", "Python", "GoLang"]
+type Me struct {
+	Name       string
+	Age        int
+	Occupation string
+	Origin     string
+	Languages  []string
+	Interests  []string
+	ProgrammingLanguages []string
+	Contact    map[string]string
+}
 
-    @staticmethod
-    def get_in_touch():
-        return {
-            "Discord": "sno0wfl4ke",
-            "Mail": "langenbrink@outlook.com",
-            "Twitter": "@meSno0wFl4ke"
-        }
+var Philip = Me{
+	Name:       "Philip",
+	Age:        20,
+	Occupation: "[AI] Student @ RUB & CEO - studiis",
+	Origin:     "Germany",
+	Languages:  []string{"German", "English", "French", "Norwegian"},
+	Interests:  []string{"Coding", "Illustration", "Biology", "Music", "Cooking"},
+	ProgrammingLanguages: []string{"TypeScript", "Kotlin", "Java", "Python", "GoLang"},
+	Contact: map[string]string{
+		"Discord": "sno0wfl4ke",
+		"Mail":    "philip@studiis.app",
+		"Twitter": "@meSno0wFl4ke",
+	},
+}
 ```
 
 <!---
