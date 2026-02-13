@@ -14,7 +14,7 @@ type Me struct {
 
 var Philip = Me{
 	Name:       "Philip",
-	Age:        20,
+	Age:        21,
 	Occupation: "[AI] Student @ RUB & CEO - studiis",
 	Origin:     "Germany",
 	Languages:  []string{"German", "English", "French", "Norwegian"},
