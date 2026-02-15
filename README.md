@@ -19,7 +19,7 @@ var Philip = Me{
 	Origin:     "Germany",
 	Languages:  []string{"German", "English", "French", "Norwegian"},
 	Interests:  []string{"Coding", "Illustration", "Biology", "Music", "Cooking"},
-	ProgrammingLanguages: []string{"TypeScript", "Kotlin", "Java", "Python", "GoLang"},
+	ProgrammingLanguages: []string{"TypeScript", "Swift", "Kotlin", "Java", "Python", "GoLang"},
 	Contact: map[string]string{
 		"Discord": "sno0wfl4ke",
 		"Mail":    "philip@studiis.app",
