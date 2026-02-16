@@ -15,15 +15,16 @@ type Me struct {
 var Philip = Me{
 	Name:       "Philip",
 	Age:        21,
-	Occupation: "[AI] Student @ RUB & CEO - studiis",
+	Occupation: "Applied Computer Science Student @ RUB & CEO - studiis",
 	Origin:     "Germany",
 	Languages:  []string{"German", "English", "French", "Norwegian"},
 	Interests:  []string{"Coding", "Illustration", "Biology", "Music", "Cooking"},
-	ProgrammingLanguages: []string{"TypeScript", "Swift", "Kotlin", "Java", "Python", "GoLang"},
+	ProgrammingLanguages: []string{"TypeScript", "SwiftUI", "Kotlin", "Java", "Python", "GoLang"},
 	Contact: map[string]string{
 		"Discord": "sno0wfl4ke",
 		"Mail":    "philip@studiis.app",
 		"Twitter": "@meSno0wFl4ke",
+		"LinkedIn": "in/philiplangenbrink"
 	},
 }
 ```
