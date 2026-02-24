@@ -4,6 +4,7 @@ package main
 type Me struct {
 	Name       string
 	Age        int
+	Pronouns   string
 	Occupation string
 	Origin     string
 	Languages  []string
@@ -15,6 +16,7 @@ type Me struct {
 var Philip = Me{
 	Name:       "Philip",
 	Age:        21,
+    Pronouns:   "he/him",
 	Occupation: "Applied Computer Science Student @ RUB & CEO - studiis",
 	Origin:     "Germany",
 	Languages:  []string{"German", "English", "French", "Norwegian"},
