@@ -16,7 +16,7 @@ type Me struct {
 var Philip = Me{
 	Name:       "Philip",
 	Age:        21,
-    Pronouns:   "he/him",
+    Pronouns:   "he/him/his",
 	Occupation: "Applied Computer Science Student @ RUB & CEO - studiis",
 	Origin:     "Germany",
 	Languages:  []string{"German", "English", "French", "Norwegian"},
