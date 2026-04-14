@@ -1,5 +1,5 @@
 ```go
-package main
+package main 
 
 type Me struct {
 	Name       string
