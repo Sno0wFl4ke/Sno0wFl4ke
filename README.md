@@ -14,7 +14,7 @@ type Me struct {
 }
 
 var Philip = Me{
-	Name:       "Philip",
+	Name:       "Philip L.",
 	Age:        21,
     Pronouns:   "he/him/his",
 	Occupation: "Applied Computer Science Student @ RUB & CEO - studiis",
