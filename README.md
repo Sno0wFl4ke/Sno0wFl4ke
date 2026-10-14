@@ -17,7 +17,7 @@ var Philip = Me{
 	Name:       "Philip L.",
 	Age:        21,
     Pronouns:   "he/him/his",
-	Occupation: "Applied Computer Science Student @ RUB & CEO - studiis",
+	Occupation: "Student @ RUB & CEO - studiis",
 	Origin:     "Germany",
 	Languages:  []string{"German", "English", "French", "Norwegian"},
 	Interests:  []string{"Coding", "Illustration", "Biology", "Music", "Cooking"},
